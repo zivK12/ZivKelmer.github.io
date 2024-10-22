@@ -1,1 +1,1 @@
-https://zivk12.github.io/ZivKelmer.github.io/
+https://zivkelmer-portfolio.netlify.app/
